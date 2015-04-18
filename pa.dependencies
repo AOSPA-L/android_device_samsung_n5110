@@ -7,7 +7,7 @@
     },
     {
         "remote": "github",
-        "repository": "AOSPA-legacy/android_device_samsung_kona-common",
+        "repository": "AOSPA-L/android_device_samsung_kona-common",
         "target_path": "device/samsung/kona-common",
         "revision": "lollipop-mr1"
     },
